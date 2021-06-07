@@ -80,7 +80,7 @@ def romz():
 def user1():
     try:
         j = open('licensed.log', 'r').read()
-        r = requests.get('https://github.com/Mark-Zuck/rombf/blob/main/license/id').text.strip() # Jangan Di ganti bro'i nanti error
+        r = requests.get('https://github.com/Mark-Zuck/license/blob/main/id').text.strip() # Jangan Di ganti bro'i nanti error
         if j in r:
             os.system('clear')
             logo()
