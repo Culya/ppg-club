@@ -1,7 +1,7 @@
 # coding:utf-8
 
 from modul import *
-from wibu.login import login
+from ajg.login import login
 from .ngewe import crack as cracking
 from .ngewe import gadag_user as asu
 import itertools,os,sys,time,datetime
