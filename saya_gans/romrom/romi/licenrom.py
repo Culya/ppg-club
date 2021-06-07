@@ -41,7 +41,7 @@ def logo():
 	time.sleep(0.07)
 
 def rom_menu():
-	os.system('python saya_gans/romrom/romi/tes/runi.pyc')
+	os.system('python saya_gans/romrom/romi/tes/romz.py')
 	
 def license_rom():
     try:
