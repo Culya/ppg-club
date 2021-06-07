@@ -8,7 +8,6 @@ $ rm -rf rombf
 ````php
 $ pkg update && pkg upgrade
 $ pkg install python 
-$ pip install mechanize
 $ pkg install git
 $ git clone https://github.com/Mark-Zuck/rombf
 $ cd rombf
