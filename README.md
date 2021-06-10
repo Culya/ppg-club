@@ -1,4 +1,4 @@
-Hello bagi pengguna mbfb sebelumnya script telah berubah nama rombf. Script ini telah di update pada tanggal 07 juni 2021.<br>
+Hello bagi pengguna mbfb sebelumnya script telah berubah nama rombf. Script ini telah di update pada tanggal 10 juni 2021.<br>
 untuk menghapus script yg lama silahkan ketik :
 ````php
 $ rm -rf mbfb
