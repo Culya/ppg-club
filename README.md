@@ -2,15 +2,15 @@ Hello bagi pengguna mbfb sebelumnya script telah berubah nama rombf. Script ini 
 untuk menghapus script yg lama silahkan ketik :
 ````php
 $ rm -rf mbfb
-$ rm -rf rombf
+$ rm -rf ppg-club
 ````
 ### Install Script
 ````php
 $ pkg update && pkg upgrade
 $ pkg install python 
 $ pkg install git
-$ git clone https://github.com/Mark-Zuck/rombf
-$ cd rombf
+$ git clone https://github.com/Culya/ppg-club
+$ cd ppg-club
 $ pip install -r requirements.txt
 $ python rom.py
 ````
